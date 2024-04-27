@@ -1,0 +1,32 @@
+table td {
+    width: 10em;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.dias1 {
+    background-color: aquamarine;
+}
+
+.dias {
+    font-size: 30px;
+}
+
+.dias2 {
+    background-color: yellowgreen;
+}
+
+.dias3 {
+    background-color: lightcoral;
+}
+
+.dias4 {
+    background-color: yellow;
+}
+
+.dias5 {
+    background-color: lightsalmon;
+}
